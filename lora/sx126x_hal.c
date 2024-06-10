@@ -1,3 +1,14 @@
+/**
+ * @file      sx126x_hal.c
+ *
+ * @brief     Hardware Abstraction Layer implementation for SX126x
+ * @author    Bernard PH1M
+ * @version   v0.1
+ * @date      2024-06-10
+ * 
+ * HAM radio, when everything else fails. Never stop chasing!
+ */
+
 #include "sx126x_hal.h"
 
 sx126x_hal_status_t sx126x_hal_write( const void* context, const uint8_t* command, const uint16_t command_length,
