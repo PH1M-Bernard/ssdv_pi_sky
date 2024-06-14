@@ -1,7 +1,7 @@
 /**
  * @file      ublox.c
  *
- * @brief     Ublox NEO 9M implementation file
+ * @brief     Ublox UBX protocol (v) implementation file
  * @author    Bernard PH1M
  * @version   v0.1
  * @date      2024-06-10
